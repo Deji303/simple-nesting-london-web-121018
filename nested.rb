@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-hopper[:grace_hopper]
+grace_hopper[:grace_hopper]
 
 end
 
